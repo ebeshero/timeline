@@ -9,7 +9,7 @@ A summary thus far:
 
 2) I want to export this timeline so students can keep adding to it in future years. Dipity's free account only permits a limited number of entries, and it would be better if we could host the the timeline on a university server rather than rely on this .com which seems to have limited available tech support.
 
-3) Getting the data from dipity.com isn't exactly easy. I've got a developer API, but I'm not confident I can retrieve the complete entry data of my timeline this way based on dipity's developer documentation. I need to investigate this further, because:
+3) Getting the data from dipity.com isn't exactly easy. I've got passcode access to the developer API, but I'm not confident I can retrieve the complete entry data of my timeline this way based on dipity's developer documentation. I need to investigate this further, because:
 
 4) Accessing the timeline's RSS feed does not actually provide all the information the students input, but *does* include geodata we've entered that coordinates with Google Maps.
 
