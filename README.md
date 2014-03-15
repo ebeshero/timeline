@@ -1,7 +1,7 @@
 timeline
 ========
 
-a timeline project for collaborative use in courses
+a timeline project for collaborative use in courses.
 
 PROJECT NOTES:
 A summary thus far:
